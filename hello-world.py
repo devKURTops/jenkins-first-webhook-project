@@ -1,1 +1,1 @@
-print('when you are breathing, there is hope')
+print('when you breath, there is hope')
